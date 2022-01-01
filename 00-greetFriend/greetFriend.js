@@ -1,7 +1,8 @@
 function greetFriend(name) {
   // Insert code here;
   let greedingSignature= "Hello";
-  let greeting= greedingSignature + name;
+  let greeting= greedingSignature + " " + name + "!";
+  
   console.log(greeting);
 }
 
