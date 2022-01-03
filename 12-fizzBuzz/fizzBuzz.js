@@ -26,7 +26,6 @@ function fizzBuzz(start, end) {
 
   return arr;
   
-
 }
 
 // Do not edit this line;
